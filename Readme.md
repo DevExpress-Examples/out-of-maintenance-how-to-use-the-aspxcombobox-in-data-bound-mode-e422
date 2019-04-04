@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Default.aspx](./CS/ComboDataBound/Default.aspx) (VB: [Default.aspx.vb](./VB/ComboDataBound/Default.aspx.vb))
+* [Default.aspx](./CS/ComboDataBound/Default.aspx) (VB: [Default.aspx](./VB/ComboDataBound/Default.aspx))
 * [Default.aspx.cs](./CS/ComboDataBound/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/ComboDataBound/Default.aspx.vb))
 <!-- default file list end -->
 # How to use the ASPxComboBox in data-bound mode
